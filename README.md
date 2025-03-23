@@ -1,1 +1,2 @@
 # mini-library
+The Mini Library Management System is a C-based project that manages book records, handles book issuance and returns, tracks overdue fines, and displays available books. It utilizes linked lists for book storage, a queue for managing return requests, and a stack for handling fines. Users can issue and return books, with overdue fines calculated automatically. The system efficiently organizes library operations, ensuring smooth book management and fine tracking while demonstrating fundamental data structures like stacks, queues, and linked lists
